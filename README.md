@@ -8,17 +8,17 @@ Its impact spans diverse sectors, including: healthcare, commerce, and governanc
 
 # How to run it?
 
-First step is to download the models from the  MODEL folder and add the model in the root project directory.
+First step is to download the models from the <a href="https://drive.google.com/drive/folders/1rVSeoncCBOs9UXRKKZhNvvjKfP_z9RKC?usp=sharing"> MODEL </a> folder and add the model in the root project directory.
 
 The following instructions were tested on the Windows and Linux with Python 3.8.
 
 1. Clone this repository
 
 ```
-git clone 
+git clone https://github.com/Hydra-Slayer/MentalHealthWebApp.git
 ```
 ```
-cd 
+cd MentalHealthWebApp
 ```
 
 2. Create and activate virtual environment 
